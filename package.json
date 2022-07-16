@@ -22,7 +22,7 @@
   ],
   "engines": {
     "vscode": "^1.66.1",
-    "node": "^16.14.2"
+    "node": "^16.16.0"
   },
   "sponsor": {
     "url": "https://github.com/sponsors/zobo"
@@ -64,7 +64,7 @@
     "@types/chai-as-promised": "^7.1.5",
     "@types/minimatch": "^3.0.5",
     "@types/mocha": "^9.1.1",
-    "@types/node": "^16.11.27",
+    "@types/node": "^16.11.45",
     "@types/relateurl": "^0.2.29",
     "@types/semver": "^7.3.9",
     "@types/urlencode": "^1.1.2",
